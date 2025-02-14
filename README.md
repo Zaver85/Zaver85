@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">I am a professional with extensive management experience who consciously changed my career vector in order to develop in the field of application development and design. Today, I specialize in creating Java-based solutions and related technologies that provide reliability, performance, and maximum business value.</h2>
+<h2 align="left">I am a professional with extensive management experience who consciously changed my career vector in order to develop in the field of application development. Today, I specialize in creating Java-based solutions and related technologies that provide reliability, performance, and maximum business value.</h2>
 
 ###
 
